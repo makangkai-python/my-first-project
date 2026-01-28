@@ -10,3 +10,5 @@ print(f"3. 计算测试：{a} + {b} = {a + b}")
 # 输入测试（可选）
 name = input("请输入你的名字：")
 print(f"你好，{name}！欢迎来到编程世界！")
+print("=== Git测试 ===")
+print("4. 这是我第一次使用Git和GitHub！")
